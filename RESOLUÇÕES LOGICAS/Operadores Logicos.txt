@@ -1,0 +1,13 @@
+Operador	Descrição	Exemplo ( x = 5, y = 10)	Resultado
+==	        Igualdade	x == y	 			False
+!=	         Difere	        x != y	  			True
+>	        Maior que	x > y				False
+<	        Menor que	x < y				True
+>=	     Maior ou igual	x >= y				False
+<=	     Menor ou igual	x <= y				True
+
+
+Operador	Nome	Descrição						Exemplo		Resultado
+and		E	Retorna Truese ambas as condições forem verdadeiras	True and False	False
+or		OU	Retorna Truese pelo menos uma condição para verdadeira	True or False	True
+not		NÃO	Inverta o valor booleano da condição	not True	False
